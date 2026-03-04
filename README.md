@@ -1,5 +1,5 @@
 # Final Assignment - Green Patent Detection: Advanced Agentic Workflow with QLoRA
-Video:
+Video: https://aaudk-my.sharepoint.com/:v:/g/personal/de63sv_student_aau_dk/IQCqlEBC1qfjTavcjynR_k3cAf_-9tW2JsVn2i2KgLv6_9U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tdeFi1
 
 Model: https://huggingface.co/Signe22/patentsberta-green-hitl-final
 
